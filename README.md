@@ -6,9 +6,9 @@ Input: Parameter k, single CSV file containing two sudokus. The first k*k rows a
 Output: If the sudoku puzzle pair doesn't have any solution, it returns None otherwise return the filled sudoku pair.
 
 Modulesused: {time,random,csv,math,argparse,pysat}
-from pysat.solvers import Solver
-from pysat.card import *
-import math
-import numpy as np
-import csv
-import time
+from pysat.solvers import Solver\\
+from pysat.card import *\\
+import math\\
+import numpy as np\\
+import csv\\
+import time 
